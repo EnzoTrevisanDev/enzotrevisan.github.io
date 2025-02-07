@@ -1,0 +1,50 @@
+body {
+    background-color: #111;
+    color: #ccc;
+    font-family: 'Courier New', monospace;
+    text-align: center;
+}
+
+.hero {
+    max-width: 800px;
+    margin: 100px auto;
+}
+
+.status {
+    color: #0f0;
+}
+
+h1 {
+    color: #fff;
+}
+
+.highlight {
+    color: #31c27c;
+}
+
+.tag {
+    display: inline-block;
+    background: #222;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.available {
+    background: #31c27c;
+    color: black;
+}
+
+.btn {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 15px;
+    text-decoration: none;
+    color: black;
+    background: #ccc;
+    border-radius: 5px;
+}
+
+.btn.start {
+    background: #31c27c;
+}
